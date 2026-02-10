@@ -37,7 +37,7 @@ Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
