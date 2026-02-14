@@ -129,6 +129,6 @@ Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com 
     alt="GitHub Streak"
     height="200"
     style="padding-right: 10px;"
-    src="https://streak-stats.demolab.com/?user=letticiamallory"
+    src="https://streak-stats.demolab.com/?user=letticiamallory&theme=tokyonight&locale=pt_BR"
   />
 </p>
