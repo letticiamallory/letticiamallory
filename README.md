@@ -124,11 +124,14 @@ Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com 
 ### 📊 Estatísticas
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Streak"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-profile-trophy.vercel.app/?username=letticiamallory"
-  />
+  <a href="https://github.com/letticiamallory/github-profile-trophy">
+    <img
+      align="left"
+      alt="GitHub Trophy"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-profile-trophy.vercel.app/?username=letticiamallory"
+    />
+  </a>
 </p>
+
