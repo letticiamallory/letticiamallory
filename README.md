@@ -130,7 +130,7 @@ Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com 
       alt="GitHub Trophy"
       height="200"
       style="padding-right: 10px;"
-      src="https://github-profile-trophy.vercel.app/?username=letticiamallory"
+      src="https://streak-stats.demolab.com/?user=letticiamallory&theme=tokyonight&locale=pt_BR"
     />
   </a>
 </p>
