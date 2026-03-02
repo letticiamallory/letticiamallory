@@ -23,9 +23,7 @@ Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Letticiamallory?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    src="https://custom-icon-badges.demolab.com/github/followers/letticiamallory?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"           </a>
     <a href="https://github.com/letticiamallory?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
