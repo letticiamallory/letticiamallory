@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend .NET | C# | ASP.NET | Angular | SQL | N8N `**
 
-Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com foco em C# e .NET. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de APIs REST, Sql, Docker, versionamento de código com Git/GitHub e automação de processos com ferramentas low-code como n8n, além de utilizar inteligência artificial em aplicações web para otimizar fluxos e integrar sistemas.
+Me chamo Letticia Mallory, tenho 24 anos e atuo como Desenvolvedora Backend com foco em C# e .NET. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de APIs REST, Sql, Docker, versionamento de código com Git/GitHub, JavaScript e node.js
 
 <p align="left">
    <a href="https://www.linkedin.com/in/letticia-mallory" target="_blank">
