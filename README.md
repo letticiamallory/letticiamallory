@@ -1,6 +1,6 @@
 # 👩‍💻 Letticia Mallory
 
-**`Desenvolvedora Backend .NET | C# | ASP.NET | Angular | SQL | N8N `**
+**`Desenvolvedora Backend .NET | C# | ASP.NET | Angular | SQL | N8N ` | TypeScript | Node.js | Nest.js | React | Express | PostgreSQL **
 
 Desenvolvedora Backend com foco em JavaScript, TypeScript, Nest.Js, Express e Node.js  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. também possuo experiência no desenvolvimento de APIs REST, Sql, Docker e versionamento de código com Git/GitHub.
 <p align="left">
