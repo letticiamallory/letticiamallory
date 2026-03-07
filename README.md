@@ -1,7 +1,5 @@
 # 👩‍💻 Letticia Mallory
 
-**`Desenvolvedora Backend .NET | C# | ASP.NET | Angular | SQL | N8N ` | TypeScript | Node.js | Nest.js | React | Express | PostgreSQL **
-
 Desenvolvedora Backend com foco em JavaScript, TypeScript, Nest.Js, Express e Node.js  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. também possuo experiência no desenvolvimento de APIs REST, Sql, Docker e versionamento de código com Git/GitHub.
 <p align="left">
    <a href="https://www.linkedin.com/in/letticia-mallory" target="_blank">
@@ -115,6 +113,54 @@ Desenvolvedora Backend com foco em JavaScript, TypeScript, Nest.Js, Express e No
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left"
+    alt="Node.js"
+    title="Node.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img
+    align="left"
+    alt="Nest.js"
+    title="Nest.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg"
+/>
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+    align="left"
+    alt="Express"
+    title="Express"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+/>
+<img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <br/>
 <br/>
