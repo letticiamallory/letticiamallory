@@ -84,14 +84,6 @@ Desenvolvedora Backend que atua na utilização de JavaScript, TypeScript, Nest.
 />
 <img 
     align="left" 
-    alt=".NET"
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
-/>
-<img 
-    align="left" 
     alt="C#" 
     title="C#" 
     width="30px" 
