@@ -148,15 +148,3 @@ Desenvolvedora Backend que atua na utilização de JavaScript, TypeScript, Nest.
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-    <img
-      align="left"
-      alt="GitHub Trophy"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://streak-stats.demolab.com/?user=letticiamallory&theme=tokyonight&locale=pt_BR"
-    />
-</p>
