@@ -1,4 +1,4 @@
-![Banner Animado](banner.svg)
+
 
 # 👩‍💻 Letticia Mallory
 
