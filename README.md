@@ -1,3 +1,5 @@
+![Banner Animado](banner.svg)
+
 # 👩‍💻 Letticia Mallory
 
 Desenvolvedora Backend que atua na utilização de JavaScript, TypeScript, Nest.Js, Express, Node.js, C# e .NET.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. também possuo experiência no desenvolvimento de APIs REST, SQL, Docker e versionamento de código com Git/GitHub.
