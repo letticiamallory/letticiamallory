@@ -1,4 +1,9 @@
 
+<div align="center">
+  <img src="yozakura_profile_letticia-UL1KlXkWjN_x6P.gif" width="1200" alt="Cerejeiras Animadas">
+</div>
+
+<br>
 
 # 👩‍💻 Letticia Mallory
 
