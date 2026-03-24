@@ -1,6 +1,6 @@
 # 👩‍💻 Letticia Mallory
 
-Desenvolvedora Backend que atua na utilização de JavaScript, TypeScript, Nest.Js, Express, Node.js, C# e .NET.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. também possuo experiência no desenvolvimento de APIs REST, SQL, Docker e versionamento de código com Git/GitHub.
+Desenvolvedora Backend que atua na utilização de JavaScript, TypeScript, Nest.Js, Express e Node.js.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. também possuo experiência no desenvolvimento de APIs REST, SQL e versionamento de código com Git/GitHub.
 <p align="left">
    <a href="https://www.linkedin.com/in/letticia-mallory" target="_blank">
   <img
