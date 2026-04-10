@@ -1,4 +1,4 @@
-<img width="400" height="350" alt="Image" src="https://github.com/user-attachments/assets/154ef13b-2d8e-498a-9185-d3f493d480ba" />
+<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/154ef13b-2d8e-498a-9185-d3f493d480ba" />
 
 ![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=C084FC&width=500&height=28&lines=Letticia+Mallory+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)
 > Desenvolvedora Backend que atua na utilização de **JavaScript**, **TypeScript**, **Nest.Js**, **Express** e **Node.js**. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Também possuo experiência no desenvolvimento de APIs REST, SQL e versionamento de código com Git/GitHub.
